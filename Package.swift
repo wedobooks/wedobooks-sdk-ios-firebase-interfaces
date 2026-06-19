@@ -10,8 +10,8 @@ let package = Package(
   targets: [
     .binaryTarget(
         name: "WDBFirebaseInterfaces",
-        url: "https://wdb-ios-spm-844218222632.europe-west1.run.app/WDBFirebaseInterfaces-v1.2.0.xcframework.zip",
-        checksum: "709c69cd0488396ac668792f1e8f542876f2c3efe029ea141f44821ce7fa7127"
+        url: "https://wdb-ios-spm-844218222632.europe-west1.run.app/WDBFirebaseInterfaces-v1.3.0.xcframework.zip",
+        checksum: "0e214799a1d69745f68d366523dfed2fe8b81c424b4962b87f874fd477fd3c72"
     )
   ]
 )
